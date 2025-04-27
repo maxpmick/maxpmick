@@ -15,7 +15,7 @@
 - **AI / RL:** PPO, SAC, AMP locomotion, vector embeddings with pgvector + OpenAI/Azure  
 - **Automation & DevOps:** n8n, GitHub Actions, Docker, Vercel  
 
-### 🚀 Polished projects
+### 🚀 The Good Stuff
 | &nbsp; | Project | TL;DR |
 | --- | --- | --- |
 | 🎓 | [Assignmint AI](https://assignmint.ai) | AI study assistant that plugs into Canvas LMS, currently in open beta.|
