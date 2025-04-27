@@ -20,7 +20,7 @@
 | --- | --- | --- |
 | 🎓 | [Assignmint AI](https://assignmint.ai) | AI study assistant that plugs into Canvas LMS, currently in open beta.|
 
-> More public repos incoming — it has come to my attention that for people to take you seriously, you need to actually post stuff.
+> More public projects incoming — it has come to my attention that for people to take you seriously, you need to actually post stuff.
 
 ### 🔧 Toolbox
 ![Python](https://img.shields.io/badge/-Python-informational?logo=python&logoColor=white&color=3776AB)
