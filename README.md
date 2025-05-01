@@ -19,6 +19,7 @@
 | &nbsp; | Project | TL;DR |
 | --- | --- | --- |
 | 🎓 | [Assignmint AI](https://assignmint.ai) | AI study assistant that plugs into Canvas LMS, currently in open beta.|
+| 👁️ | [YOLO11 Live Demo](https://github.com/maxpmick/YOLO11-Live-Demo) | Quick little demo ui for some computer vision projects.|
 
 > More public projects incoming — it has come to my attention that for people to take you seriously, you need to actually post stuff.
 
