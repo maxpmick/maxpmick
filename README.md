@@ -1,14 +1,14 @@
 <!-- README.md for @max -->
 
-<h1 align="center">Hey, I’m Max 👋</h1>
+<h1 align="center">Hey, I'm Max 👋</h1>
 <p align="center">
   <strong>Cybersecurity undergrad • Robot tinkerer • AI experimenter</strong><br/>
-  Baldwin Wallace University ’26
+  Baldwin Wallace University '26
 </p>
 
 ---
 
-### 🛠️ What I’m into
+### 🛠️ What I'm into
 - **Cybersecurity:** Blue-team labs, CTFs, and Burpsuite (love Burp so much)
 - **Robotics:** ROS 2, Gazebo / Isaac Sim, MoveIt 2 motion planning  
 - **FPV Drones:** Betaflight, PID Tuning, Custom Li-Ion Packs
@@ -18,6 +18,7 @@
 ### 🚀 The Good Stuff
 | &nbsp; | Project | TL;DR |
 | --- | --- | --- |
+| 🤖 | [Steppy](https://github.com/maxpmick/steppy) | Low-cost robotics platform built on an Ender 3 V2 3D printer. |
 | 🎓 | [Assignmint AI](https://assignmint.ai) | AI study assistant that plugs into Canvas LMS, currently in open beta.|
 | 👁️ | [YOLO11 Live Demo](https://github.com/maxpmick/YOLO11-Live-Demo) | Quick little demo ui for some computer vision projects.|
 
