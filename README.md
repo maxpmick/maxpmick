@@ -1,6 +1,6 @@
 # Max Mick
 
-Cybersecurity @ Baldwin Wallace '26 · AI Engineering Intern @ Park Place Technologies
+Cybersecurity @ Baldwin Wallace '26
 
 Building internal RAG systems, autonomous pen-testing agents, and whatever breaks in interesting ways.
 
