@@ -2,8 +2,6 @@
 
 Cybersecurity @ Baldwin Wallace '26
 
-Building internal RAG systems, autonomous pen-testing agents, and whatever breaks in interesting ways.
-
 Top-20 DOE CyberForce · 3x consecutive
 
 ---
